@@ -8,8 +8,8 @@
 
 <p align="left">
   <strong>Currently...</strong>
-  <li>Junior pursuing my Bachelors of Science in Computer Science at St. Johns University</li>
-  <li>Looking for Fall internships + projects</li>
+  <li>Senior pursuing my Bachelors of Science in Computer Science at St. Johns University</li>
+  <li>Looking for Summer/Fall internships + projects</li>
   <li>Cultivating a professional network</li>
 </p>
 
